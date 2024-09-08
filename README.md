@@ -30,12 +30,12 @@ Capture ideas, thoughts, and important information effortlessly.
 Edit and organize notes with rich text formatting and multimedia attachments.
 
 # DEMO
-![Screenshot (123)](https://github.com/user-attachments/assets/5fa1bdf8-1ef2-447c-ba8d-3ce5245a6361)
-![Screenshot (122)](https://github.com/user-attachments/assets/2c86092e-26e0-41c4-bba7-e10a235c9ff8)
-![Screenshot (121)](https://github.com/user-attachments/assets/45219b20-66b9-4206-aab0-e3e79478df45)
-![Screenshot (120)](https://github.com/user-attachments/assets/d10f3846-3ccc-4b3c-afbe-8c16be293ace)
-![Screenshot (118)](https://github.com/user-attachments/assets/973a49c0-a840-453c-aadc-60a815e5a353)
 
+![Screenshot (118)](https://github.com/user-attachments/assets/973a49c0-a840-453c-aadc-60a815e5a353)
+![Screenshot (120)](https://github.com/user-attachments/assets/d10f3846-3ccc-4b3c-afbe-8c16be293ace)
+![Screenshot (121)](https://github.com/user-attachments/assets/45219b20-66b9-4206-aab0-e3e79478df45)
+![Screenshot (122)](https://github.com/user-attachments/assets/2c86092e-26e0-41c4-bba7-e10a235c9ff8)
+![Screenshot (123)](https://github.com/user-attachments/assets/5fa1bdf8-1ef2-447c-ba8d-3ce5245a6361)
 
 ## Technologies Used
 
